@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on: Building my portfolio and preparing for a Data Science/ML Engineering internship<br><br>I'm looking to collaborate on: Machine learning projects involving time-series forecasting, computer vision, or model deployment<br><br>I'm currently learning: MLOps, model deployment, and data pipeline engineering<br><br>💬 Ask me about: Time-series forecasting, ensemble methods, computer vision/segmentation models, or data science competition prep<br><br>Fun fact: 3rd place at MCF ITB 2026 National Competition (Time Series Forecasting)
+I'm currently working on: Building my portfolio and preparing for a Data Science/ML Engineering internship<br><br>I'm looking to collaborate on: Machine learning projects involving time-series forecasting, computer vision, or model deployment<br><br>I'm currently learning: MLOps, model deployment, and data pipeline engineering<br><br>Ask me about: Time-series forecasting, ensemble methods, computer vision/segmentation models, or data science competition prep<br><br>Fun fact: 3rd place at MCF ITB 2026 National Competition (Time Series Forecasting)
 
 
 ## Socials:
