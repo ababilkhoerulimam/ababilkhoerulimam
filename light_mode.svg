@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 580" font-family="ConsolasFallback,Consolas,monospace" width="1040px" height="580px" font-size="14px">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  -webkit-size-adjust: 109%;
+  size-adjust: 109%;
+}
+.key { fill: #953800; }
+.value { fill: #0a3069; }
+.cc { fill: #c2cfde; }
+text, tspan { white-space: pre; }
+</style>
+<rect width="1040px" height="580px" fill="#f6f8fa" rx="15"/>
+<text x="20" y="35" fill="#24292f">
+  <tspan x="20" y="35">                                  </tspan>
+  <tspan x="20" y="55">           &gt;!!,! &gt;#               </tspan>
+  <tspan x="20" y="75">       .8MMMMMMMMMMMMM&gt;           </tspan>
+  <tspan x="20" y="95">      MMMMMMMMMMMMMMMMMMi         </tspan>
+  <tspan x="20" y="115">     MMMMMMMMMMMMMMMMMMMMM        </tspan>
+  <tspan x="20" y="135">   ?MMMMMMMMMMMMMMMMMMMMMMM       </tspan>
+  <tspan x="20" y="155">   #MMMMMMMMMMMMMMMMMMMMMMM&gt;      </tspan>
+  <tspan x="20" y="175">   .MMMMMMMM#8MMM@MMMMMMMMM       </tspan>
+  <tspan x="20" y="195">    MMMMS#i+ :i   ;.!8MMMM!       </tspan>
+  <tspan x="20" y="215">     8M ;!::.    ;;.!; 8M         </tspan>
+  <tspan x="20" y="235">      8..:?M&gt;;  i+MM&gt;: %&gt;         </tspan>
+  <tspan x="20" y="255">     %%..!&gt;i      :i:. &gt;??        </tspan>
+  <tspan x="20" y="275">     :?;              .*%.        </tspan>
+  <tspan x="20" y="295">     .#%.    ; .&gt;.   .+@?         </tspan>
+  <tspan x="20" y="315">       :&gt;.  .!,;i   .iS           </tspan>
+  <tspan x="20" y="335">        *i..:::::;;,;S:           </tspan>
+  <tspan x="20" y="355">         #!*SS?S#@*i?M            </tspan>
+  <tspan x="20" y="375">        .8*:....  .*M%            </tspan>
+  <tspan x="20" y="395">        .%**;:,::;?SS+            </tspan>
+  <tspan x="20" y="415">         8!i&gt;+*??%*!*+            </tspan>
+  <tspan x="20" y="435">         #+.:!!!ii:;%             </tspan>
+  <tspan x="20" y="455">          8i.;i&gt;&gt;;:?;             </tspan>
+  <tspan x="20" y="475">          ;@:..::,i%              </tspan>
+  <tspan x="20" y="495">           i;.   .+  *:           </tspan>
+  <tspan x="20" y="515">      ...    .. .   ....          </tspan>
+  <tspan x="20" y="535">                                  </tspan>
+</text>
+<text x="315" y="35" fill="#24292f">
+  <tspan x="315" y="35">ababil@surabaya</tspan> ————————————————————————————————————————————————
+  <tspan x="315" y="55" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Windows 11, Linux (Ubuntu)</tspan>
+  <tspan x="315" y="75" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Data Science &amp; ML Engineering</tspan>
+  <tspan x="315" y="95" class="cc">. </tspan><tspan class="key">Field</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Computer Vision, Tabular Ensembling, Time Series</tspan>
+  <tspan x="315" y="115" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Kaggle &amp; National DS Competitor</tspan>
+  <tspan x="315" y="135" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">VS Code, Cursor, Jupyter Notebook</tspan>
+  <tspan x="315" y="155" class="cc">. </tspan>
+  <tspan x="315" y="175" class="cc">. </tspan><tspan class="key">Languages.Core</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Python, TypeScript, SQL, R, C++</tspan>
+  <tspan x="315" y="195" class="cc">. </tspan><tspan class="key">Frameworks.ML_DL</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">PyTorch, LightGBM, XGBoost, CatBoost, Scikit-learn</tspan>
+  <tspan x="315" y="215" class="cc">. </tspan><tspan class="key">CV_and_NLP</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Mask2Former, Swin Transformer, ConvNeXt, DINOv2</tspan>
+  <tspan x="315" y="235" class="cc">. </tspan><tspan class="key">Deployment_and_Ops</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">FastAPI, Docker, Streamlit, Supabase, Git</tspan>
+  <tspan x="315" y="255" class="cc">. </tspan>
+  <tspan x="315" y="275">- Key Competitions</tspan> ——————————————————————————————————————————
+  <tspan x="315" y="295" class="cc">. </tspan><tspan class="key">MCF_ITB_2026</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">3rd Place (Time Series Forecasting)</tspan>
+  <tspan x="315" y="315" class="cc">. </tspan><tspan class="key">Hology_7.0</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Champion 0.75000 LB (Mammography DL Triage)</tspan>
+  <tspan x="315" y="335" class="cc">. </tspan><tspan class="key">Kaggle_s6e9</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">0.94198 ROC-AUC (Predicting EV Purchases)</tspan>
+  <tspan x="315" y="355" class="cc">. </tspan><tspan class="key">Nexus_2026</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Flood Semantic Segmentation (Mask2Former)</tspan>
+  <tspan x="315" y="375" class="cc">. </tspan><tspan class="key">Satria_Data_2026</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">BDC Waste Classification (4-Model Ensemble)</tspan>
+  <tspan x="315" y="395" class="cc">. </tspan>
+  <tspan x="315" y="415">- Contact</tspan> ———————————————————————————————————————————————————
+  <tspan x="315" y="435" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">linkedin.com/in/ababil-khoerul-imam</tspan>
+  <tspan x="315" y="455" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">github.com/ababilkhoerulimam</tspan>
+  <tspan x="315" y="475" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">ababilkhoerulimam@gmail.com</tspan>
+  <tspan x="315" y="495" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Surabaya, Indonesia</tspan>
+  <tspan x="315" y="515" class="cc">. </tspan>
+  <tspan x="315" y="535">- Status</tspan> ————————————————————————————————————————————————————
+  <tspan x="315" y="555" class="cc">. </tspan><tspan class="key">Availability</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Open for Data Science / MLE Opportunities</tspan>
+</text>
+</svg>

@@ -1,13 +1,38 @@
-# About Me:
-I'm currently working on: Building my portfolio and preparing for a Data Science/ML Engineering internship<br><br>I'm looking to collaborate on: Machine learning projects involving time-series forecasting, computer vision, or model deployment<br><br>I'm currently learning: MLOps, model deployment, and data pipeline engineering<br><br>Ask me about: Time-series forecasting, ensemble methods, computer vision/segmentation models, or data science competition prep<br><br>Fun fact: 3rd place at MCF ITB 2026 National Competition (Time Series Forecasting)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
+    <img alt="Ababil Khoerul Imam - GitHub Profile" src="./dark_mode.svg" width="100%">
+  </picture>
+</div>
 
+<br>
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ababilrl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ababil-khoerul-imam/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ababilkhoerulimam@gmail.com) 
+### 🏆 Competition Highlights & Benchmarks
 
-# Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ababilkhoerulimam&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ababilkhoerulimam&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ababilkhoerulimam&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| Competition / Benchmark | Problem Domain | Architecture / Method | Metric / Result | Repository |
+| :--- | :--- | :--- | :--- | :--- |
+| **MCF ITB 2026** | Spatio-Temporal Forecasting | Residual LightGBM Stacking, Deep Feature Engineering | **3rd Place National** | [`insurance-claim-forecasting-mcfitb26`](https://github.com/ababilkhoerulimam/insurance-claim-forecasting-mcfitb26) |
+| **Hology 7.0** | Medical Mammography Triage | 7-Model Heterogeneous Ensemble (Swin, ConvNeXt, ResNet) + GeM & 8-pass TTA | **0.75000 Kaggle Public LB** | [`breast-cancer-classification`](https://github.com/ababilkhoerulimam/breast-cancer-classification) |
+| **Kaggle s6e9** | EV Adoption Prediction | 46 Leakage-Safe Features, 5-Fold Stratified CV, Multi-Model Stacking | **0.94198 ROC-AUC** | [`predicting-electric-vehicle-purchases`](https://github.com/ababilkhoerulimam/predicting-electric-vehicle-purchases) |
+| **Nexus 2026** | Multi-Class Flood Segmentation | Swin-Tiny Mask2Former across 10 classes, Lovasz-Softmax compound loss | High-Precision Segmentation | [`flood-segmentation-mask2former-nexus2026`](https://github.com/ababilkhoerulimam/flood-segmentation-mask2former-nexus2026) |
+| **Satria Data 2026 (BDC)** | Waste Material Classification | 4-Model Ensemble (ConvNeXt V2, DINOv2, EVA-02, SigLIP) + Nelder-Mead OOF | Top-Tier Classification | [`multimodel-waste-classification-satriadata2026`](https://github.com/ababilkhoerulimam/multimodel-waste-classification-satriadata2026) |
+| **SSDS UNS 2026** | Bengawan Solo River Hydro | Spatio-Temporal Water Level (TMA) Forecasting via HydroRIVERS & NNLS Stacking | Minimized Multi-Station RMSE | [`st-hydro-bengawansolo-ssfuns2026`](https://github.com/ababilkhoerulimam/st-hydro-bengawansolo-ssfuns2026) |
+
+---
+
+### 🚀 Production & Business Analytics
+
+- **[BRIDGE Intelligence](https://github.com/ababilkhoerulimam/bridge-landing-page)**: Offline-first production intelligence platform for building material SMEs. Sub-2-minute shop floor logging, automated cloud sync, real-time OEE telemetry, and AI recipe optimization reducing material waste by 8–12%.
+- **[SKU Variant & Cannibalization Analysis](https://github.com/ababilkhoerulimam/sku-variant-analysis)**: End-to-end Pareto analysis, duplicate reconciliation, sensitivity modeling, and Herfindahl-Hirschman Index (HHI) variant de-concentration.
+- **[Credit Default Risk Engine](https://github.com/ababilkhoerulimam/credit-risk-prediction)**: Production-ready credit risk scoring combining leverage engineering, GBDT, and PyTorch MLP architectures.
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ababil-khoerul-imam/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ababilkhoerulimam@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ababilkhoerulimam)
+
+</div>
