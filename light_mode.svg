@@ -29,7 +29,7 @@ text, tspan { white-space: pre; }
   <tspan x="325" y="235" class="cc">. </tspan><tspan class="key">Deployment_and_Ops</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">FastAPI, Docker, Streamlit, Supabase, Git</tspan>
   <tspan x="325" y="255" class="cc">. </tspan>
   <tspan x="325" y="275">- Key Competitions</tspan> ————————————————————————————————————————
-  <tspan x="325" y="295" class="cc">. </tspan><tspan class="key">MCF_ITB_2026</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">3rd Place (Time Series Forecasting)</tspan>
+  <tspan x="325" y="295" class="cc">. </tspan><tspan class="key">MCF_ITB_2026</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">3rd Place (Prophet + LightGBM + Naive Blend)</tspan>
   <tspan x="325" y="315" class="cc">. </tspan><tspan class="key">Hology_7.0</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Champion 0.75000 LB (Mammography DL Triage)</tspan>
   <tspan x="325" y="335" class="cc">. </tspan><tspan class="key">Kaggle_s6e9</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">0.94198 ROC-AUC (Predicting EV Purchases)</tspan>
   <tspan x="325" y="355" class="cc">. </tspan><tspan class="key">Nexus_2026</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Flood Semantic Segmentation (Mask2Former)</tspan>

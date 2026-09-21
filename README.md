@@ -12,14 +12,14 @@
 
 | Competition / Benchmark | Problem Domain | Architecture / Method | Metric / Result | Repository |
 | :--- | :--- | :--- | :--- | :--- |
-| **MCF ITB 2026** | Spatio-Temporal Forecasting | Residual LightGBM Stacking, Deep Feature Engineering | **3rd Place National** | [`insurance-claim-forecasting-mcfitb26`](https://github.com/ababilkhoerulimam/insurance-claim-forecasting-mcfitb26) |
+| **MCF ITB 2026** | Insurance Claim Forecasting | Hierarchical Tri-Model Ensemble (Prophet + LightGBM + Seasonal Naive) with Inverse MAPE Blending & Progressive Horizon Weighting | **3rd Place National** (4.79% CV MAPE) | [`insurance-claim-forecasting-mcfitb26`](https://github.com/ababilkhoerulimam/insurance-claim-forecasting-mcfitb26) |
 | **Hology 7.0** | Medical Mammography Triage | 7-Model Heterogeneous Ensemble (Swin, ConvNeXt, ResNet) + GeM & 8-pass TTA | **0.75000 Kaggle Public LB** | [`breast-cancer-classification`](https://github.com/ababilkhoerulimam/breast-cancer-classification) |
 | **Kaggle s6e9** | EV Adoption Prediction | 46 Leakage-Safe Features, 5-Fold Stratified CV, Multi-Model Stacking | **0.94198 ROC-AUC** | [`predicting-electric-vehicle-purchases`](https://github.com/ababilkhoerulimam/predicting-electric-vehicle-purchases) |
 | **Nexus 2026** | Multi-Class Flood Segmentation | Swin-Tiny Mask2Former across 10 classes, Lovasz-Softmax compound loss | High-Precision Segmentation | [`flood-segmentation-mask2former-nexus2026`](https://github.com/ababilkhoerulimam/flood-segmentation-mask2former-nexus2026) |
 | **Satria Data 2026 (BDC)** | Waste Material Classification | 4-Model Ensemble (ConvNeXt V2, DINOv2, EVA-02, SigLIP) + Nelder-Mead OOF | Top-Tier Classification | [`multimodel-waste-classification-satriadata2026`](https://github.com/ababilkhoerulimam/multimodel-waste-classification-satriadata2026) |
 | **SSDS UNS 2026** | Bengawan Solo River Hydro | Spatio-Temporal Water Level (TMA) Forecasting via HydroRIVERS & NNLS Stacking | Minimized Multi-Station RMSE | [`st-hydro-bengawansolo-ssfuns2026`](https://github.com/ababilkhoerulimam/st-hydro-bengawansolo-ssfuns2026) |
 
-
+---
 
 ### 🚀 Production & Business Analytics
 
@@ -27,7 +27,7 @@
 - **[Credit Default Risk Engine](https://github.com/ababilkhoerulimam/credit-risk-prediction)**: Production-ready credit risk scoring combining leverage engineering, GBDT, and PyTorch MLP architectures.
 - **[Lending Club Risk Analysis](https://github.com/ababilkhoerulimam/lending-loan-club)**: Credit risk underwriting analysis with deep EDA, data cleaning, and justified feature selection for MCF ITB 2026.
 
-
+---
 
 <div align="center">
 
