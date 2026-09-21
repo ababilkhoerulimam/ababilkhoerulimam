@@ -23,9 +23,9 @@
 
 ### 🚀 Production & Business Analytics
 
-- **[BRIDGE Intelligence](https://github.com/ababilkhoerulimam/bridge-landing-page)**: Offline-first production intelligence platform for building material SMEs. Sub-2-minute shop floor logging, automated cloud sync, real-time OEE telemetry, and AI recipe optimization reducing material waste by 8–12%.
 - **[SKU Variant & Cannibalization Analysis](https://github.com/ababilkhoerulimam/sku-variant-analysis)**: End-to-end Pareto analysis, duplicate reconciliation, sensitivity modeling, and Herfindahl-Hirschman Index (HHI) variant de-concentration.
 - **[Credit Default Risk Engine](https://github.com/ababilkhoerulimam/credit-risk-prediction)**: Production-ready credit risk scoring combining leverage engineering, GBDT, and PyTorch MLP architectures.
+- **[Lending Club Risk Analysis](https://github.com/ababilkhoerulimam/lending-loan-club)**: Credit risk underwriting analysis with deep EDA, data cleaning, and justified feature selection for MCF ITB 2026.
 
 
 
