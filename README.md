@@ -19,7 +19,7 @@
 | **Satria Data 2026 (BDC)** | Waste Material Classification | 4-Model Ensemble (ConvNeXt V2, DINOv2, EVA-02, SigLIP) + Nelder-Mead OOF | Top-Tier Classification | [`multimodel-waste-classification-satriadata2026`](https://github.com/ababilkhoerulimam/multimodel-waste-classification-satriadata2026) |
 | **SSDS UNS 2026** | Bengawan Solo River Hydro | Spatio-Temporal Water Level (TMA) Forecasting via HydroRIVERS & NNLS Stacking | Minimized Multi-Station RMSE | [`st-hydro-bengawansolo-ssfuns2026`](https://github.com/ababilkhoerulimam/st-hydro-bengawansolo-ssfuns2026) |
 
----
+
 
 ### 🚀 Production & Business Analytics
 
@@ -27,7 +27,7 @@
 - **[SKU Variant & Cannibalization Analysis](https://github.com/ababilkhoerulimam/sku-variant-analysis)**: End-to-end Pareto analysis, duplicate reconciliation, sensitivity modeling, and Herfindahl-Hirschman Index (HHI) variant de-concentration.
 - **[Credit Default Risk Engine](https://github.com/ababilkhoerulimam/credit-risk-prediction)**: Production-ready credit risk scoring combining leverage engineering, GBDT, and PyTorch MLP architectures.
 
----
+
 
 <div align="center">
 
