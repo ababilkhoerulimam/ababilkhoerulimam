@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ababilkhoerulimam/ababilkhoerulimam/main/dark_mode.svg?v=20260922b">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ababilkhoerulimam/ababilkhoerulimam/main/light_mode.svg?v=20260922b">
-    <img alt="Ababil Khoerul Imam - GitHub Profile" src="https://raw.githubusercontent.com/ababilkhoerulimam/ababilkhoerulimam/main/dark_mode.svg?v=20260922b" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./card-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./card-light.svg">
+    <img alt="Ababil Khoerul Imam - GitHub Profile" src="./card-dark.svg" width="100%">
   </picture>
 </div>
 
