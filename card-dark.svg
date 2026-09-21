@@ -23,7 +23,7 @@ text, tspan { white-space: pre; }
   <tspan x="325" y="115" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Kaggle &amp; National DS Competitor</tspan>
   <tspan x="325" y="135" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">VS Code, Cursor, Jupyter Notebook</tspan>
   <tspan x="325" y="155" class="cc">. </tspan>
-  <tspan x="325" y="175" class="cc">. </tspan><tspan class="key">Languages.Core</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Python, SQL, JavaScript, Bash</tspan>
+  <tspan x="325" y="175" class="cc">. </tspan><tspan class="key">Languages.Core</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Python, SQL, Bash</tspan>
   <tspan x="325" y="195" class="cc">. </tspan><tspan class="key">Frameworks.ML_DL</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">PyTorch, LightGBM, XGBoost, CatBoost, Scikit-learn</tspan>
   <tspan x="325" y="215" class="cc">. </tspan><tspan class="key">CV_and_NLP</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Mask2Former, Swin Transformer, ConvNeXt, DINOv2</tspan>
   <tspan x="325" y="235" class="cc">. </tspan><tspan class="key">Deployment_and_Ops</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">FastAPI, Docker, Streamlit, Supabase, Git</tspan>
